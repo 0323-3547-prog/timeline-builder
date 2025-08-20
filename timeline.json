@@ -1,0 +1,141 @@
+{
+	"title": {
+		"media": {
+			"url": "https://i0.wp.com/www.lightsondata.com/wp-content/uploads/2022/01/history-of-machine-learning.jpg?resize=768%2C432&ssl=1",
+			"caption": "The History of Machine Learning.",
+			"credit": "Image:/<a href='https://www.lightsondata.com/the-history-of-machine-learning/'>The History Of ML.</a>"
+		},
+		"text": {
+			"headline": "History of Machine Learning<br/> 1950- Present",
+			"text": "<p>This are some of the achievements and discovery of Machine Learning throughout the years..</p>"
+		}
+	},
+	"events": [
+		{
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Turing_test_diagram.png",
+				"caption": "Turing Test",
+				"credit": "Photo From:<a href='https://en.wikipedia.org/wiki/Turing_test'>Wikipedia</a>"
+			},
+			"start_date": {
+				"year": "1950"
+			},
+			"text": {
+				"headline": "The Turing Test",
+				"text": "<p>Alan Turing introduced Turing Test, a test used to evaluate machines ability to mimic/imitate human behavior. This suggested that machine could also learn human behavior influencing future ML researches.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://imageio.forbes.com/specials-images/imageserve/60b13f395e70ff270e5f6bc0/Arthur-Samuel-and-his-checkers-playing-IBM-computer-in-1956/960x0.jpg?height=350&width=620&fit=bounds",
+				"caption": "Arthur Samuel",
+				"credit": "Photo From:<a href='https://www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machines-machine-learning-and-how-ai-took-over-statistics/'>forbes</a>"
+			},
+			"start_date": {
+				"year": "1952"
+			},
+			"text": {
+				"headline": "Computer Checkers",
+				"text": "<p>Arthur Samuel made a computer-based checkers program designed to learn automatically from past games and experience. This development marks the first practical use of ML in gaming.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://ars.els-cdn.com/content/image/3-s2.0-B9780128234884000011-f01-07-9780128234884.jpg",
+				"caption": "Perceptron",
+				"credit": "Photo From:<a href='https://www.sciencedirect.com/topics/engineering/perceptron'>sciencedirect</a>"
+			},
+			"start_date": {
+				"year": "1957"
+			},
+			"text": {
+				"headline": "The Perceptron",
+				"text": "<p>Frank Rosenblatt introduced the Perceptron, the first neural network that simulates the thought process of the human brain. This single-layer neural network model is capable of recognizing patterns.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://www.researchgate.net/publication/356781515/figure/fig1/AS:1186982466203662@1660010081825/k-nearest-neighbors-A-diagram-showing-an-example-of-the-k-nearest-neighbor-machine.png",
+				"caption": "kNN",
+				"credit": "Photo From:<a href='https://www.researchgate.net/figure/k-nearest-neighbors-A-diagram-showing-an-example-of-the-k-nearest-neighbor-machine_fig1_356781515'>researchgate</a>"
+			},
+			"start_date": {
+				"year": "1967"
+			},
+			"text": {
+				"headline": "Nearest Neighbor Algorithm",
+				"text": "<p>The Nearest Neighbor Algorithm started basic pattern recognition. This algorithm allowed computers to classify data points based on their distance to other points in a given dataset.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://media.geeksforgeeks.org/wp-content/uploads/20240217152156/Frame-13.png",
+				"caption": "Backpropagation Algorithm",
+				"credit": "Photo From:<a href='https://www.geeksforgeeks.org/machine-learning/backpropagation-in-neural-network/'>geeks4geeks</a>"
+			},
+			"start_date": {
+				"year": "1974"
+			},
+			"text": {
+				"headline": "The Backpropagation Algorithm",
+				"text": "<p>This algorithm was a turning point for neural networks. It used a multi-layer network to learn by correcting errors through feedback loops.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh0prEonLZlKOc0HpeZKH0dWMEwyTLizsnzQ&s",
+				"caption": "Standford Cart",
+				"credit": "Photo From:<a href='https://news.stanford.edu/stories/2019/01/stanfords-robotics-legacy'>stanford</a>"
+			},
+			"start_date": {
+				"year": "1979"
+			},
+			"text": {
+				"headline": "The Stanford Cart",
+				"text": "<p>The Stanford Cart was a groundbreaking project in autonomous vehicles. Using ML algorithms, the cart automatically navigated obstacles in its environment without human intervention.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9IzNgdYEPx0IwrHHnwXJdzr9DZfZNmYyCzg&s",
+				"caption": "Deep Blue vs Kasparov",
+				"credit": "Photo From:<a href='https://stanford.edu/~cpiech/cs221/apps/deepBlue.html'>stanford</a>"
+			},
+			"start_date": {
+				"year": "1997"
+			},
+			"text": {
+				"headline": "Deep Blue Defeats Man in Chess",
+				"text": "<p>Deep Blue defeated Garry Kasparov in chess. This proved that a machine can compete against humans in terms of intelligence.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://sefiks.com/wp-content/uploads/2020/02/zuckerberg-face-recognition.jpg",
+				"caption": "Face Recognition",
+				"credit": "Photo From:<a href='https://sefiks.com/2020/02/17/face-recognition-with-facebook-deepface-in-keras/'>Sefiks</a>"
+			},
+			"start_date": {
+				"year": "2014"
+			},
+			"text": {
+				"headline": "DeepFace",
+				"text": "<p>Facebook introduced DeepFace, a facial recognition project using deep learning to identify faces with high accuracy, showcasing ML’s potential for advancing computer vision.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://images.firstpost.com/uploads/2023/03/OpenAI-showcases-GPT-4-the-next-gen-AI-language-model-that-makes-ChatGPT-look-like-a-relic.jpg?im=FitAndFill=(1200,675)",
+				"caption": "OpenAI GPT-4",
+				"credit": "Photo From:<a href='https://www.firstpost.com/world/gpt-4-openais-new-ai-language-model-makes-chatgpt-look-like-a-relic-of-the-past-12293862.html'>firstpost</a>"
+			},
+			"start_date": {
+				"year": "2015"
+			},
+			"text": {
+				"headline": "Generative AI (Gen AI)",
+				"text": "<p>With the rise of Generative AI models such as GPT, these models generate text, images, videos, and music based on user input.</p>"
+			}
+		}
+	]
+}
