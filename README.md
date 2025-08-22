@@ -18,14 +18,19 @@ View this example [timeline](https://digital-humanities-toolkit.github.io/timeli
 ![timeline sample](example.png)
 
 References:
+
 Applied AI Course blog — History of Machine Learning
 Saxena, A. (2024, October 22). The history of machine learning. Applied AI Course Blog. Retrieved August 22, 2025, from https://www.appliedaicourse.com/blog/history-of-machine-learning/
+
 ‌Wikipedia — Timeline of Machine Learning
 Timeline of machine learning. (n.d.). In Wikipedia. Retrieved August 22, 2025, from https://en.wikipedia.org/wiki/Timeline_of_machine_learning
+
 Wikipedia — Deep Blue (Chess Computer)
 Deep Blue (chess computer). (n.d.). In Wikipedia. Retrieved August 22, 2025, from https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)
+
 Wikipedia — Nearest neighbour algorithm
 Nearest neighbour algorithm. (n.d.). In Wikipedia. Retrieved August 22, 2025, from https://en.wikipedia.org/wiki/Nearest_neighbour_algorithm
+
 
 
 
