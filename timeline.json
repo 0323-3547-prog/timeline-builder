@@ -124,6 +124,15 @@
 			}
 		},
 		{
+			"start_date": {
+				"year": "2025"
+			},
+			"text": {
+				"headline": "References",
+				"text": "<p>Applied AI Course blog — History of Machine Learning Saxena, A. (2024, October 22). The history of machine learning. Applied AI Course Blog. Retrieved August 22, 2025, from https://www.appliedaicourse.com/blog/history-of-machine-learning/‌ <br>Wikipedia — Timeline of machine learning. (n.d.). In Wikipedia. Retrieved August 22, 2025, from https://en.wikipedia.org/wiki/Timeline_of_machine_learning <br>Wikipedia — Deep Blue (chess computer). (n.d.). In Wikipedia. Retrieved August 22, 2025, from https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)<br>Wikipedia — Nearest neighbour algorithm. (n.d.). In Wikipedia. Retrieved August 22, 2025, from https://en.wikipedia.org/wiki/Nearest_neighbour_algorithm</p>"
+			}
+		},
+		{
 			"media": {
 				"url": "https://images.firstpost.com/uploads/2023/03/OpenAI-showcases-GPT-4-the-next-gen-AI-language-model-that-makes-ChatGPT-look-like-a-relic.jpg?im=FitAndFill=(1200,675)",
 				"caption": "OpenAI GPT-4",
@@ -138,4 +147,5 @@
 			}
 		}
 	]
+
 }
